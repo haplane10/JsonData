@@ -1,17 +1,36 @@
 {
-  "Datas": 
-  [
+  "Datas": [
     {
-      "Stage" : 1,
-      "Word" : "소나무"
+      "Stage": 1,
+      "Word": "소나무"
     },
     {
       "Stage": 2,
       "Word": "아파트"
     },
     {
-      "Stage": 3,
+      "Stage": 4,
       "Word": "냉장고"
+    },
+    {
+      "Stage": 5,
+      "Word": "냉장고"
+    },
+    {
+      "Stage": 6,
+      "Word": "동화책"
+    },
+    {
+      "Stage": 7,
+      "Word": "대학동기"
+    },
+    {
+      "Stage": 8,
+      "Word": "여자친구"
+    },
+    {
+      "Stage": 9,
+      "Word": "나인뮤지스"
     }
   ]
 }
