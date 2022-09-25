@@ -14,7 +14,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point2",
@@ -27,7 +27,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point3",
@@ -40,7 +40,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point4",
@@ -53,7 +53,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point5",
@@ -66,7 +66,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point6",
@@ -79,7 +79,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         }
       ]
     },
@@ -97,7 +97,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point2",
@@ -110,7 +110,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point3",
@@ -123,7 +123,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point4",
@@ -136,7 +136,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point5",
@@ -149,7 +149,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point6",
@@ -162,7 +162,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         }
       ]
     },
@@ -180,7 +180,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point2",
@@ -193,7 +193,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point3",
@@ -206,7 +206,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point4",
@@ -219,7 +219,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point5",
@@ -232,7 +232,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         },
         {
           "Name": "Point6",
@@ -245,7 +245,7 @@
             "Minor": 0
           },
           "IsSuccess": false,
-          "Life": 3
+          "Life": 1
         }
       ]
     }
