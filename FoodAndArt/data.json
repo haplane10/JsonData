@@ -4,7 +4,7 @@
       "place": 1,
       "Infos": [
         {
-          "Name": "Point1",
+          "Name": "종합안내소1 스티커",
           "Latitude": "37.559558",
           "Longitude": "126.950377",
           "Beacon": {
@@ -17,7 +17,7 @@
           "Life": 1
         },
         {
-          "Name": "Point2",
+          "Name": "종합안내소2 스티커",
           "Latitude": "37.559358",
           "Longitude": "126.950375",
           "Beacon": {
@@ -30,7 +30,7 @@
           "Life": 1
         },
         {
-          "Name": "Point3",
+          "Name": "종합안내소3 스티커",
           "Latitude": "37.559400",
           "Longitude": "126.950500",
           "Beacon": {
@@ -43,7 +43,7 @@
           "Life": 1
         },
         {
-          "Name": "Point4",
+          "Name": "종합안내소4 스티커",
           "Latitude": "37.559599",
           "Longitude": "126.950299",
           "Beacon": {
@@ -56,7 +56,7 @@
           "Life": 1
         },
         {
-          "Name": "Point5",
+          "Name": "종합안내소5 스티커",
           "Latitude": "37.559460",
           "Longitude": "126.950000",
           "Beacon": {
@@ -69,7 +69,7 @@
           "Life": 1
         },
         {
-          "Name": "Point6",
+          "Name": "종합안내소6 스티커",
           "Latitude": "37.559501",
           "Longitude": "126.950368",
           "Beacon": {
