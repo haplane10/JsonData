@@ -337,8 +337,8 @@
       "Infos": [
         {
           "Name": "Point1",
-          "Latitude": "37.559558",
-          "Longitude": "126.950377",
+          "Latitude": "37.480360",
+          "Longitude": "126.876153",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -389,8 +389,8 @@
         },
         {
           "Name": "Point5",
-          "Latitude": "37.480360",
-          "Longitude": "126.876153",
+          "Latitude": "37.559558",
+          "Longitude": "126.950377",
           "Beacon": {
             "Region": "",
             "UUID": "",
