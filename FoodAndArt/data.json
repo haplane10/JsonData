@@ -5,8 +5,8 @@
       "Infos": [
         {
           "Name": "종합안내소1 스티커",
-          "Latitude": "34.956952",
-          "Longitude": "127.537650",
+          "Latitude": "34.951300",
+          "Longitude": "127.483900",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -18,8 +18,8 @@
         },
         {
           "Name": "종합안내소2 스티커",
-          "Latitude": "34.957491",
-          "Longitude": "127.537731",
+          "Latitude": "34.951303",
+          "Longitude": "127.483903",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -31,8 +31,8 @@
         },
         {
           "Name": "종합안내소3 스티커",
-          "Latitude": "34.956868",
-          "Longitude": "127.537352",
+          "Latitude": "34.951306",
+          "Longitude": "127.483903",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -44,8 +44,8 @@
         },
         {
           "Name": "종합안내소4 스티커",
-          "Latitude": "34.9571723",
-          "Longitude": "127.5369395",
+          "Latitude": "34.951297",
+          "Longitude": "127.483900",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -57,8 +57,8 @@
         },
         {
           "Name": "종합안내소5 스티커",
-          "Latitude": "34.956748",
-          "Longitude": "127.537765",
+          "Latitude": "34.951294",
+          "Longitude": "127.483903",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -70,8 +70,8 @@
         },
         {
           "Name": "종합안내소6 스티커",
-          "Latitude": "34.9572383",
-          "Longitude": "127.5374052",
+          "Latitude": "34.951297",
+          "Longitude": "127.483895",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -87,9 +87,9 @@
       "place": 2,
       "Infos": [
         {
-          "Name": "Point1",
-          "Latitude": "37.559558",
-          "Longitude": "126.950377",
+          "Name": "드라마7",
+          "Latitude": "34.956952",
+          "Longitude": "127.537650",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -100,9 +100,9 @@
           "Life": 1
         },
         {
-          "Name": "Point2",
-          "Latitude": "37.559358",
-          "Longitude": "126.950375",
+          "Name": "드라마8",
+          "Latitude": "34.957491",
+          "Longitude": "127.537731",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -113,9 +113,9 @@
           "Life": 1
         },
         {
-          "Name": "Point3",
-          "Latitude": "37.559400",
-          "Longitude": "126.950500",
+          "Name": "드라마9",
+          "Latitude": "34.956868",
+          "Longitude": "127.537352",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -126,9 +126,9 @@
           "Life": 1
         },
         {
-          "Name": "Point4",
-          "Latitude": "37.559599",
-          "Longitude": "126.950299",
+          "Name": "드라마10",
+          "Latitude": "34.9571723",
+          "Longitude": "127.5369395",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -139,9 +139,9 @@
           "Life": 1
         },
         {
-          "Name": "Point5",
-          "Latitude": "37.559460",
-          "Longitude": "126.950000",
+          "Name": "드라마11",
+          "Latitude": "34.956748",
+          "Longitude": "127.537765",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -152,9 +152,9 @@
           "Life": 1
         },
         {
-          "Name": "Point6",
-          "Latitude": "37.559501",
-          "Longitude": "126.950368",
+          "Name": "드라마12",
+          "Latitude": "34.9572383",
+          "Longitude": "127.5374052",
           "Beacon": {
             "Region": "",
             "UUID": "",
