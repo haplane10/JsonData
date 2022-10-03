@@ -18,8 +18,8 @@
         },
         {
           "Name": "종합안내소2 스티커",
-          "Latitude": "34.951303",
-          "Longitude": "127.483903",
+          "Latitude": "34.953700",
+          "Longitude": "127.484000",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -31,8 +31,8 @@
         },
         {
           "Name": "종합안내소3 스티커",
-          "Latitude": "34.951306",
-          "Longitude": "127.483903",
+          "Latitude": "34.954800",
+          "Longitude": "127.484200",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -44,8 +44,8 @@
         },
         {
           "Name": "종합안내소4 스티커",
-          "Latitude": "34.951297",
-          "Longitude": "127.483900",
+          "Latitude": "34.954900",
+          "Longitude": "127.481500",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -57,8 +57,8 @@
         },
         {
           "Name": "종합안내소5 스티커",
-          "Latitude": "34.951294",
-          "Longitude": "127.483903",
+          "Latitude": "34.955100",
+          "Longitude": "127.485900",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -70,8 +70,8 @@
         },
         {
           "Name": "종합안내소6 스티커",
-          "Latitude": "34.951297",
-          "Longitude": "127.483895",
+          "Latitude": "34.957000",
+          "Longitude": "127.484200",
           "Beacon": {
             "Region": "",
             "UUID": "",
