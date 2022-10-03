@@ -171,8 +171,8 @@
       "Infos": [
         {
           "Name": "Point1",
-          "Latitude": "37.559558",
-          "Longitude": "126.950377",
+          "Latitude": "34.953537",
+          "Longitude": "127.568493",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -184,8 +184,8 @@
         },
         {
           "Name": "Point2",
-          "Latitude": "37.559358",
-          "Longitude": "126.950375",
+          "Latitude": "34.953531",
+          "Longitude": "127.568493",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -197,8 +197,8 @@
         },
         {
           "Name": "Point3",
-          "Latitude": "37.559400",
-          "Longitude": "126.950500",
+          "Latitude": "34.953540",
+          "Longitude": "127.568496",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -210,8 +210,8 @@
         },
         {
           "Name": "Point4",
-          "Latitude": "37.559599",
-          "Longitude": "126.950299",
+          "Latitude": "34.953534",
+          "Longitude": "127.568496",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -223,8 +223,8 @@
         },
         {
           "Name": "Point5",
-          "Latitude": "37.559460",
-          "Longitude": "126.950000",
+          "Latitude": "34.953540",
+          "Longitude": "127.568490",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -236,8 +236,8 @@
         },
         {
           "Name": "Point6",
-          "Latitude": "37.559501",
-          "Longitude": "126.950368",
+          "Latitude": "34.953534",
+          "Longitude": "127.568490",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -254,8 +254,8 @@
       "Infos": [
         {
           "Name": "Point1",
-          "Latitude": "37.559558",
-          "Longitude": "126.950377",
+          "Latitude": "37.528558",
+          "Longitude": "126.876455",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -267,8 +267,8 @@
         },
         {
           "Name": "Point2",
-          "Latitude": "37.559358",
-          "Longitude": "126.950375",
+          "Latitude": "37.528554",
+          "Longitude": "126.876455",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -280,8 +280,8 @@
         },
         {
           "Name": "Point3",
-          "Latitude": "37.559400",
-          "Longitude": "126.950500",
+          "Latitude": "37.528560",
+          "Longitude": "126.876457",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -293,8 +293,8 @@
         },
         {
           "Name": "Point4",
-          "Latitude": "37.559599",
-          "Longitude": "126.950299",
+          "Latitude": "37.528556",
+          "Longitude": "126.876457",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -306,8 +306,8 @@
         },
         {
           "Name": "Point5",
-          "Latitude": "37.559460",
-          "Longitude": "126.950000",
+          "Latitude": "37.528560",
+          "Longitude": "126.876453",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -319,8 +319,8 @@
         },
         {
           "Name": "Point6",
-          "Latitude": "37.559501",
-          "Longitude": "126.950368",
+          "Latitude": "37.528556",
+          "Longitude": "126.876453",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -337,8 +337,8 @@
       "Infos": [
         {
           "Name": "Point1",
-          "Latitude": "37.559558",
-          "Longitude": "126.950377",
+          "Latitude": "37.480360",
+          "Longitude": "126.876153",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -389,8 +389,8 @@
         },
         {
           "Name": "Point5",
-          "Latitude": "37.559460",
-          "Longitude": "126.950000",
+          "Latitude": "37.559558",
+          "Longitude": "126.950377",
           "Beacon": {
             "Region": "",
             "UUID": "",
@@ -402,8 +402,8 @@
         },
         {
           "Name": "Point6",
-          "Latitude": "37.559501",
-          "Longitude": "126.950368",
+          "Latitude": "37.480340",
+          "Longitude": "126.876200",
           "Beacon": {
             "Region": "",
             "UUID": "",
