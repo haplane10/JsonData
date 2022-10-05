@@ -1,5 +1,5 @@
 {
-  "Data": [
+  "GhostPlaces": [
     {
       "place": 1,
       "Infos": [
@@ -7,12 +7,26 @@
           "Name": "가위소녀_병원",
           "Latitude": 34.95695114135742,
           "Longitude": 127.53765106201172,
-          "Beacon": {
-            "Region": "com.soonchundrama.house1_1",
-            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-            "Major": 40011,
-            "Minor": 16499
-          },
+          "Beacon": [
+            {
+              "Region": "com.soonchundrama.house1_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16499
+            },
+            {
+              "Region": "com.soonchundrama.house1_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16499
+            },
+            {
+              "Region": "com.soonchundrama.house1_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16499
+            }
+          ],
           "IsSuccess": false,
           "Life": 3
         },
@@ -20,12 +34,26 @@
           "Name": "변소귀신_화장실",
           "Latitude": 34.956878662109378,
           "Longitude": 127.5382308959961,
-          "Beacon": {
-            "Region": "com.soonchundrama.house1_2",
-            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-            "Major": 40011,
-            "Minor": 16492
-          },
+          "Beacon": [
+            {
+              "Region": "com.soonchundrama.house1_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16492
+            },
+            {
+              "Region": "com.soonchundrama.house1_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16492
+            },
+            {
+              "Region": "com.soonchundrama.house1_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16492
+            }
+          ],
           "IsSuccess": false,
           "Life": 3
         },
@@ -33,12 +61,26 @@
           "Name": "빨간리본소녀_당구장",
           "Latitude": 34.95686721801758,
           "Longitude": 127.537353515625,
-          "Beacon": {
-            "Region": "com.soonchundrama.house1_3",
-            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-            "Major": 40011,
-            "Minor": 19590
-          },
+          "Beacon": [
+            {
+              "Region": "com.soonchundrama.house1_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19590
+            },
+            {
+              "Region": "com.soonchundrama.house1_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19590
+            },
+            {
+              "Region": "com.soonchundrama.house1_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19590
+            }
+          ],
           "IsSuccess": false,
           "Life": 3
         },
@@ -46,12 +88,26 @@
           "Name": "웃는여자_만화방",
           "Latitude": 34.95717239379883,
           "Longitude": 127.53689575195313,
-          "Beacon": {
-            "Region": "com.soonchundrama.house1_4",
-            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-            "Major": 40011,
-            "Minor": 19591
-          },
+          "Beacon": [
+            {
+              "Region": "com.soonchundrama.house1_4",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19591
+            },
+            {
+              "Region": "com.soonchundrama.house1_4",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19591
+            },
+            {
+              "Region": "com.soonchundrama.house1_4",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19591
+            }
+          ],
           "IsSuccess": false,
           "Life": 3
         },
@@ -59,12 +115,26 @@
           "Name": "이름없는여고생_노래방",
           "Latitude": 34.956748962402347,
           "Longitude": 127.53776550292969,
-          "Beacon": {
-            "Region": "com.soonchundrama.house1_5",
-            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-            "Major": 40011,
-            "Minor": 16495
-          },
+          "Beacon": [
+            {
+              "Region": "com.soonchundrama.house1_5",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16495
+            },
+            {
+              "Region": "com.soonchundrama.house1_5",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16495
+            },
+            {
+              "Region": "com.soonchundrama.house1_5",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 16495
+            }
+          ],
           "IsSuccess": false,
           "Life": 3
         },
@@ -72,12 +142,861 @@
           "Name": "헤메는여자_식당",
           "Latitude": 34.957237243652347,
           "Longitude": 127.53736877441406,
-          "Beacon": {
-            "Region": "com.soonchundrama.house1_6",
-            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-            "Major": 40011,
-            "Minor": 19692
-          },
+          "Beacon": [
+            {
+              "Region": "com.soonchundrama.house1_6",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
+            },
+            {
+              "Region": "com.soonchundrama.house1_6",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
+            },
+            {
+              "Region": "com.soonchundrama.house1_6",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    },
+    {
+      "place": 2,
+      "Infos": [
+        {
+          "Name": "드라마7",
+          "Latitude": "34.956952",
+          "Longitude": "127.537650",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "드라마8",
+          "Latitude": "34.957491",
+          "Longitude": "127.537731",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "드라마9",
+          "Latitude": "34.956868",
+          "Longitude": "127.537352",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "드라마10",
+          "Latitude": "34.9571723",
+          "Longitude": "127.5369395",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "드라마11",
+          "Latitude": "34.956748",
+          "Longitude": "127.537765",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "드라마12",
+          "Latitude": "34.9572383",
+          "Longitude": "127.5374052",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    },
+    {
+      "place": 3,
+      "Infos": [
+        {
+          "Name": "Point1",
+          "Latitude": "34.953537",
+          "Longitude": "127.568493",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point2",
+          "Latitude": "34.953531",
+          "Longitude": "127.568493",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point3",
+          "Latitude": "34.953540",
+          "Longitude": "127.568496",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point4",
+          "Latitude": "34.953534",
+          "Longitude": "127.568496",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point5",
+          "Latitude": "34.953540",
+          "Longitude": "127.568490",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point6",
+          "Latitude": "34.953534",
+          "Longitude": "127.568490",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    },
+    {
+      "place": 4,
+      "Infos": [
+        {
+          "Name": "Point1",
+          "Latitude": "37.528558",
+          "Longitude": "126.876455",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point2",
+          "Latitude": "37.528554",
+          "Longitude": "126.876455",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point3",
+          "Latitude": "37.528560",
+          "Longitude": "126.876457",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point4",
+          "Latitude": "37.528556",
+          "Longitude": "126.876457",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point5",
+          "Latitude": "37.528560",
+          "Longitude": "126.876453",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point6",
+          "Latitude": "37.528556",
+          "Longitude": "126.876453",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    },
+    {
+      "place": 5,
+      "Infos": [
+        {
+          "Name": "Point1",
+          "Latitude": "37.559350",
+          "Longitude": "126.950379",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point2",
+          "Latitude": "37.559358",
+          "Longitude": "126.950375",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point3",
+          "Latitude": "37.559400",
+          "Longitude": "126.950500",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point4",
+          "Latitude": "37.559599",
+          "Longitude": "126.950299",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point5",
+          "Latitude": "37.559558",
+          "Longitude": "126.950377",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point6",
+          "Latitude": "37.559556",
+          "Longitude": "126.950370",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        }
+      ]
+    },
+    {
+      "place": 6,
+      "Infos": [
+        {
+          "Name": "Point1",
+          "Latitude": "37.559558",
+          "Longitude": "126.950377",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point2",
+          "Latitude": "37.559358",
+          "Longitude": "126.950375",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point3",
+          "Latitude": "37.559400",
+          "Longitude": "126.950500",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point4",
+          "Latitude": "37.559599",
+          "Longitude": "126.950299",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point5",
+          "Latitude": "37.559460",
+          "Longitude": "126.950000",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
+          "IsSuccess": false,
+          "Life": 3
+        },
+        {
+          "Name": "Point6",
+          "Latitude": "37.559501",
+          "Longitude": "126.950368",
+          "Beacon": [
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            },
+            {
+              "Region": "",
+              "UUID": "",
+              "Major": 0,
+              "Minor": 0
+            }
+          ],
           "IsSuccess": false,
           "Life": 3
         }
