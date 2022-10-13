@@ -15,13 +15,13 @@
               "Minor": 16499
             },
             {
-              "Region": "com.soonchundrama.house1_1",
+              "Region": "com.soonchundrama.house1_2",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 16499
             },
             {
-              "Region": "com.soonchundrama.house1_1",
+              "Region": "com.soonchundrama.house1_3",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 16499
@@ -36,19 +36,19 @@
           "Longitude": 127.5382308959961,
           "Beacon": [
             {
-              "Region": "com.soonchundrama.house1_2",
+              "Region": "com.soonchundrama.house2_1",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 16492
             },
             {
-              "Region": "com.soonchundrama.house1_2",
+              "Region": "com.soonchundrama.house2_2",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 16492
             },
             {
-              "Region": "com.soonchundrama.house1_2",
+              "Region": "com.soonchundrama.house2_3",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 16492
@@ -63,19 +63,19 @@
           "Longitude": 127.537353515625,
           "Beacon": [
             {
-              "Region": "com.soonchundrama.house1_3",
+              "Region": "com.soonchundrama.house3_1",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19590
             },
             {
-              "Region": "com.soonchundrama.house1_3",
+              "Region": "com.soonchundrama.house3_2",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19590
             },
             {
-              "Region": "com.soonchundrama.house1_3",
+              "Region": "com.soonchundrama.house3_3",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19590
@@ -90,19 +90,19 @@
           "Longitude": 127.53689575195313,
           "Beacon": [
             {
-              "Region": "com.soonchundrama.house1_4",
+              "Region": "com.soonchundrama.house4_1",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19591
             },
             {
-              "Region": "com.soonchundrama.house1_4",
+              "Region": "com.soonchundrama.house4_2",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19591
             },
             {
-              "Region": "com.soonchundrama.house1_4",
+              "Region": "com.soonchundrama.house4_3",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19591
@@ -117,19 +117,19 @@
           "Longitude": 127.53776550292969,
           "Beacon": [
             {
-              "Region": "com.soonchundrama.house1_5",
+              "Region": "com.soonchundrama.house5_1",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 16495
             },
             {
-              "Region": "com.soonchundrama.house1_5",
+              "Region": "com.soonchundrama.house5_2",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 16495
             },
             {
-              "Region": "com.soonchundrama.house1_5",
+              "Region": "com.soonchundrama.house5_3",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 16495
@@ -144,19 +144,19 @@
           "Longitude": 127.53736877441406,
           "Beacon": [
             {
-              "Region": "com.soonchundrama.house1_6",
+              "Region": "com.soonchundrama.house6_1",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19692
             },
             {
-              "Region": "com.soonchundrama.house1_6",
+              "Region": "com.soonchundrama.house6_2",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19692
             },
             {
-              "Region": "com.soonchundrama.house1_6",
+              "Region": "com.soonchundrama.house6_3",
               "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
               "Major": 40011,
               "Minor": 19692
@@ -176,22 +176,22 @@
           "Longitude": "127.537650",
           "Beacon": [
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             }
           ],
           "IsSuccess": false,
@@ -203,22 +203,22 @@
           "Longitude": "127.537731",
           "Beacon": [
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             }
           ],
           "IsSuccess": false,
@@ -230,22 +230,22 @@
           "Longitude": "127.537352",
           "Beacon": [
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             }
           ],
           "IsSuccess": false,
@@ -257,22 +257,22 @@
           "Longitude": "127.5369395",
           "Beacon": [
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             }
           ],
           "IsSuccess": false,
@@ -284,22 +284,22 @@
           "Longitude": "127.537765",
           "Beacon": [
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             }
           ],
           "IsSuccess": false,
@@ -311,22 +311,22 @@
           "Longitude": "127.5374052",
           "Beacon": [
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_1",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_2",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             },
             {
-              "Region": "",
-              "UUID": "",
-              "Major": 0,
-              "Minor": 0
+              "Region": "com.soonchundrama.house6_3",
+              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+              "Major": 40011,
+              "Minor": 19692
             }
           ],
           "IsSuccess": false,
