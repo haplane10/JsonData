@@ -700,7 +700,7 @@
         },
         {
           "Name": "Point2",
-          "Latitude": "37.559358",
+          "Latitude": "37.559400",
           "Longitude": "126.950375",
           "Beacon": [
             {
@@ -754,7 +754,7 @@
         },
         {
           "Name": "Point4",
-          "Latitude": "37.559599",
+          "Latitude": "37.559200",
           "Longitude": "126.950299",
           "Beacon": [
             {
@@ -781,8 +781,8 @@
         },
         {
           "Name": "Point5",
-          "Latitude": "37.559558",
-          "Longitude": "126.950377",
+          "Latitude": "37.559300",
+          "Longitude": "126.950200",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house5_1",
@@ -808,8 +808,8 @@
         },
         {
           "Name": "Point6",
-          "Latitude": "37.559556",
-          "Longitude": "126.950370",
+          "Latitude": "37.559600",
+          "Longitude": "126.950400",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house6_1",
