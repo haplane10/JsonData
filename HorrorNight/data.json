@@ -32,8 +32,8 @@
         },
         {
             "Name": "변소귀신_화장실",
-            "Latitude": "34.9563884",
-            "Longitude": "127.538279",
+            "Latitude": "34.9563886",
+            "Longitude": "127.538215",
             "Beacon": [
                 {
                     "Region": "com.soonchundrama.house2_1",
@@ -59,8 +59,8 @@
         },
         {
           "Name": "빨간리본소녀_당구장",
-          "Latitude": "34.956868",
-          "Longitude": "127.537352",
+          "Latitude": "34.956829",
+          "Longitude": "127.537082",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house3_1",
@@ -86,8 +86,8 @@
         },
         {
           "Name": "웃는여자_만화방",
-          "Latitude": "34.957068",
-          "Longitude": "127.536892",
+          "Latitude": "34.957114",
+          "Longitude": "127.536945",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house4_1",
