@@ -86,8 +86,8 @@
             },
             {
                 "Name": "이름없는여고생_만화방뒷집",
-                "Latitude": "34.957114",
-                "Longitude": "127.536945",
+                "Latitude": "34.957068",
+                "Longitude": "127.536892",
                 "Beacon": [
                     {
                         "Region": "com.soonchundrama.house4_1",
@@ -280,8 +280,8 @@
             },
             {
                 "Name": "변소귀신_변소",
-                "Latitude": "34.9563872",
-                "Longitude": "127.538227",
+                "Latitude": "34.9563884",
+                "Longitude": "127.538279",
                 "Beacon": [
                     {
                         "Region": "com.soonchundrama.house2_1",
