@@ -172,8 +172,8 @@
         "Infos": [
             {
                 "Name": "빨간리본소녀_노래방",
-                "Latitude": "34.956748",
-                "Longitude": "127.537765",
+                "Latitude": "34.956801",
+                "Longitude": "127.537128",
                 "Beacon": [
                     {
                         "Region": "com.soonchundrama.house5_1",
@@ -253,8 +253,8 @@
             },
             {
                 "Name": "김병장의원령_등용문",
-                "Latitude": "34.956735",
-                "Longitude": "127.537926",
+                "Latitude": "34.956766",
+                "Longitude": "127.537769",
                 "Beacon": [
                     {
                         "Region": "com.soonchundrama.house6_1",
@@ -280,8 +280,8 @@
             },
             {
                 "Name": "변소귀신_변소",
-                "Latitude": "34.9563884",
-                "Longitude": "127.538279",
+                "Latitude": "34.956820",
+                "Longitude": "127.538172",
                 "Beacon": [
                     {
                         "Region": "com.soonchundrama.house2_1",
@@ -308,8 +308,8 @@
 
             {
                 "Name": "사진찍는남자_면사무소",
-                "Latitude": "34.956781",
-                "Longitude": "127.538105",
+                "Latitude": "34.956740",
+                "Longitude": "127.537834",
                 "Beacon": [
                     {
                         "Region": "com.soonchundrama.house6_1",
