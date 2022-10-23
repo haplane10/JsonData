@@ -2,337 +2,338 @@
   "GhostPlaces": [
     {
       "place": 1,
-      "Infos": [
-        {
-          "Name": "가위소녀_병원",
-          "Latitude": "34.956952",
-          "Longitude": "127.537650",
-          "Beacon": [
+        "Infos": [
             {
-              "Region": "com.soonchundrama.house1_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16499
+                "Name": "헤메는여자_병원",
+                "Latitude": "34.956952",
+                "Longitude": "127.537650",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house1_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16499
+                    },
+                    {
+                        "Region": "com.soonchundrama.house1_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16499
+                    },
+                    {
+                        "Region": "com.soonchundrama.house1_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16499
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
             },
             {
-              "Region": "com.soonchundrama.house1_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16499
+                "Name": "매맞는소년_아이스크림가게",
+                "Latitude": "34.957256",
+                "Longitude": "127.537768",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house6_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
             },
             {
-              "Region": "com.soonchundrama.house1_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16499
+                "Name": "웃는여자_스타당구장",
+                "Latitude": "34.956868",
+                "Longitude": "127.537352",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house3_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19590
+                    },
+                    {
+                        "Region": "com.soonchundrama.house3_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19590
+                    },
+                    {
+                        "Region": "com.soonchundrama.house3_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19590
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
+            },
+            {
+                "Name": "이름없는여고생_만화방뒷집",
+                "Latitude": "34.957114",
+                "Longitude": "127.536945",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house4_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19591
+                    },
+                    {
+                        "Region": "com.soonchundrama.house4_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19591
+                    },
+                    {
+                        "Region": "com.soonchundrama.house4_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19591
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
+            },
+            {
+                "Name": "파출소",
+                "Latitude": "34.956881",
+                "Longitude": "127.537034",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house6_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
+            },
+            {
+                "Name": "가위소녀_식당",
+                "Latitude": "34.957245",
+                "Longitude": "127.537371",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house6_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
             }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-            "Name": "변소귀신_화장실",
-            "Latitude": "34.9563872",
-            "Longitude": "127.538227",
-            "Beacon": [
-                {
-                    "Region": "com.soonchundrama.house2_1",
-                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                    "Major": 40011,
-                    "Minor": 16492
-                },
-                {
-                    "Region": "com.soonchundrama.house2_2",
-                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                    "Major": 40011,
-                    "Minor": 16492
-                },
-                {
-                    "Region": "com.soonchundrama.house2_3",
-                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                    "Major": 40011,
-                    "Minor": 16492
-                }
-            ],
-            "IsSuccess": false,
-            "Life": 3
-        },
-        {
-          "Name": "빨간리본소녀_당구장",
-          "Latitude": "34.956868",
-          "Longitude": "127.537352",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house3_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19590
-            },
-            {
-              "Region": "com.soonchundrama.house3_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19590
-            },
-            {
-              "Region": "com.soonchundrama.house3_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19590
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-          "Name": "웃는여자_만화방",
-          "Latitude": "34.957114",
-          "Longitude": "127.536945",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house4_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19591
-            },
-            {
-              "Region": "com.soonchundrama.house4_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19591
-            },
-            {
-              "Region": "com.soonchundrama.house4_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19591
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-          "Name": "이름없는여고생_노래방",
-          "Latitude": "34.956748",
-          "Longitude": "127.537765",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house5_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16495
-            },
-            {
-              "Region": "com.soonchundrama.house5_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16495
-            },
-            {
-              "Region": "com.soonchundrama.house5_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16495
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-          "Name": "헤메는여자_식당",
-          "Latitude": "34.957245",
-          "Longitude": "127.537371",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house6_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        }
-      ]
+        ]
     },
     {
       "place": 2,
-      "Infos": [
-        {
-          "Name": "파출소",
-          "Latitude": "34.956881",
-          "Longitude": "127.537034",
-          "Beacon": [
+        "Infos": [
             {
-              "Region": "com.soonchundrama.house6_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
+                "Name": "빨간리본소녀_노래방",
+                "Latitude": "34.956748",
+                "Longitude": "127.537765",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house5_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16495
+                    },
+                    {
+                        "Region": "com.soonchundrama.house5_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16495
+                    },
+                    {
+                        "Region": "com.soonchundrama.house5_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16495
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
             },
             {
-              "Region": "com.soonchundrama.house6_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
+                "Name": "흔들리는남자_중앙당구장",
+                "Latitude": "34.956779",
+                "Longitude": "127.537146",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house6_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
             },
             {
-              "Region": "com.soonchundrama.house6_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
+                "Name": "검은비닐봉지_푸줏간",
+                "Latitude": "34.957048",
+                "Longitude": "127.537270",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house6_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
+            },
+            {
+                "Name": "김병장의원령_등용문",
+                "Latitude": "34.956735",
+                "Longitude": "127.537926",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house6_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
+            },
+            {
+                "Name": "변소귀신_변소",
+                "Latitude": "34.9563872",
+                "Longitude": "127.538227",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house2_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16492
+                    },
+                    {
+                        "Region": "com.soonchundrama.house2_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16492
+                    },
+                    {
+                        "Region": "com.soonchundrama.house2_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 16492
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
+            },
+
+            {
+                "Name": "사진찍는남자_면사무소",
+                "Latitude": "34.956781",
+                "Longitude": "127.538105",
+                "Beacon": [
+                    {
+                        "Region": "com.soonchundrama.house6_1",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_2",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    },
+                    {
+                        "Region": "com.soonchundrama.house6_3",
+                        "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                        "Major": 40011,
+                        "Minor": 19692
+                    }
+                ],
+                "IsSuccess": false,
+                "Life": 3
             }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-          "Name": "중앙당구장",
-          "Latitude": "34.956779",
-          "Longitude": "127.537146",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house6_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-          "Name": "푸줏간",
-          "Latitude": "34.957048",
-          "Longitude": "127.537270",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house6_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-          "Name": "등용문",
-          "Latitude": "34.956735",
-          "Longitude": "127.537926",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house6_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-          "Name": "아이스크림가게",
-          "Latitude": "34.957256",
-          "Longitude": "127.537768",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house6_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        },
-        {
-          "Name": "면사무소",
-          "Latitude": "34.956781",
-          "Longitude": "127.538105",
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house6_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            },
-            {
-              "Region": "com.soonchundrama.house6_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 19692
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
-        }
-      ]
+        ]
     },
     {
       "place": 3,
