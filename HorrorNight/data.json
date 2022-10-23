@@ -5,8 +5,8 @@
       "Infos": [
         {
           "Name": "가위소녀_병원",
-          "Latitude": 34.95695114135742,
-          "Longitude": 127.53765106201172,
+          "Latitude": "34.956952",
+          "Longitude": "127.537650",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house1_1",
@@ -31,36 +31,36 @@
           "Life": 3
         },
         {
-          "Name": "변소귀신_화장실",
-          "Latitude": 34.956878662109378,
-          "Longitude": 127.5382308959961,
-          "Beacon": [
-            {
-              "Region": "com.soonchundrama.house2_1",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16492
-            },
-            {
-              "Region": "com.soonchundrama.house2_2",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16492
-            },
-            {
-              "Region": "com.soonchundrama.house2_3",
-              "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-              "Major": 40011,
-              "Minor": 16492
-            }
-          ],
-          "IsSuccess": false,
-          "Life": 3
+            "Name": "변소귀신_화장실",
+            "Latitude": "34.9563884",
+            "Longitude": "127.538279",
+            "Beacon": [
+                {
+                    "Region": "com.soonchundrama.house2_1",
+                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                    "Major": 40011,
+                    "Minor": 16492
+                },
+                {
+                    "Region": "com.soonchundrama.house2_2",
+                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                    "Major": 40011,
+                    "Minor": 16492
+                },
+                {
+                    "Region": "com.soonchundrama.house2_3",
+                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                    "Major": 40011,
+                    "Minor": 16492
+                }
+            ],
+            "IsSuccess": false,
+            "Life": 3
         },
         {
           "Name": "빨간리본소녀_당구장",
-          "Latitude": 34.95686721801758,
-          "Longitude": 127.537353515625,
+          "Latitude": "34.956868",
+          "Longitude": "127.537352",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house3_1",
@@ -86,8 +86,8 @@
         },
         {
           "Name": "웃는여자_만화방",
-          "Latitude": 34.95717239379883,
-          "Longitude": 127.53689575195313,
+          "Latitude": "34.957068",
+          "Longitude": "127.536892",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house4_1",
@@ -113,8 +113,8 @@
         },
         {
           "Name": "이름없는여고생_노래방",
-          "Latitude": 34.956748962402347,
-          "Longitude": 127.53776550292969,
+          "Latitude": "34.956748",
+          "Longitude": "127.537765",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house5_1",
@@ -140,8 +140,8 @@
         },
         {
           "Name": "헤메는여자_식당",
-          "Latitude": 34.957237243652347,
-          "Longitude": 127.53736877441406,
+          "Latitude": "34.957245",
+          "Longitude": "127.537371",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house6_1",
@@ -171,9 +171,9 @@
       "place": 2,
       "Infos": [
         {
-          "Name": "드라마7",
-          "Latitude": "34.956952",
-          "Longitude": "127.537650",
+          "Name": "파출소",
+          "Latitude": "34.956881",
+          "Longitude": "127.537034",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house6_1",
@@ -198,9 +198,9 @@
           "Life": 3
         },
         {
-          "Name": "드라마8",
-          "Latitude": "34.957491",
-          "Longitude": "127.537731",
+          "Name": "중앙당구장",
+          "Latitude": "34.956779",
+          "Longitude": "127.537146",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house6_1",
@@ -225,9 +225,9 @@
           "Life": 3
         },
         {
-          "Name": "드라마9",
-          "Latitude": "34.956868",
-          "Longitude": "127.537352",
+          "Name": "푸줏간",
+          "Latitude": "34.957048",
+          "Longitude": "127.537270",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house6_1",
@@ -252,9 +252,9 @@
           "Life": 3
         },
         {
-          "Name": "드라마10",
-          "Latitude": "34.9571723",
-          "Longitude": "127.5369395",
+          "Name": "등용문",
+          "Latitude": "34.956735",
+          "Longitude": "127.537926",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house6_1",
@@ -279,9 +279,9 @@
           "Life": 3
         },
         {
-          "Name": "드라마11",
-          "Latitude": "34.956748",
-          "Longitude": "127.537765",
+          "Name": "아이스크림가게",
+          "Latitude": "34.957256",
+          "Longitude": "127.537768",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house6_1",
@@ -306,9 +306,9 @@
           "Life": 3
         },
         {
-          "Name": "드라마12",
-          "Latitude": "34.9572383",
-          "Longitude": "127.5374052",
+          "Name": "면사무소",
+          "Latitude": "34.956781",
+          "Longitude": "127.538105",
           "Beacon": [
             {
               "Region": "com.soonchundrama.house6_1",
