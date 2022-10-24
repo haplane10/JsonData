@@ -225,31 +225,31 @@
                     "Life": 3
                 },
                 {
-                    "Name": "검은비닐봉지_푸줏간",
-                    "Latitude": "34.957048",
-                    "Longitude": "127.537270",
-                    "Beacon": [
-                        {
-                            "Region": "com.soonchundrama.house6_1",
-                            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                            "Major": 40011,
-                            "Minor": 19692
-                        },
-                        {
-                            "Region": "com.soonchundrama.house6_2",
-                            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                            "Major": 40011,
-                            "Minor": 19692
-                        },
-                        {
-                            "Region": "com.soonchundrama.house6_3",
-                            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                            "Major": 40011,
-                            "Minor": 19692
-                        }
-                    ],
-                    "IsSuccess": false,
-                    "Life": 3
+                  "Name": "검은비닐봉지_기차역",
+                  "Latitude": "34.9572842",
+                  "Longitude": "127.5368547",
+                  "Beacon": [
+                    {
+                      "Region": "com.soonchundrama.house6_1",
+                      "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                      "Major": 40011,
+                      "Minor": 19692
+                    },
+                    {
+                      "Region": "com.soonchundrama.house6_2",
+                      "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                      "Major": 40011,
+                      "Minor": 19692
+                    },
+                    {
+                      "Region": "com.soonchundrama.house6_3",
+                      "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                      "Major": 40011,
+                      "Minor": 19692
+                    }
+                  ],
+                  "IsSuccess": false,
+                  "Life": 3
                 },
                 {
                     "Name": "김병장의원령_등용문",
