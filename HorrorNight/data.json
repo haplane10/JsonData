@@ -278,33 +278,33 @@
                     "IsSuccess": false,
                     "Life": 3
                 },
-                {
-                    "Name": "변소귀신_변소",
-                    "Latitude": "34.9563884",
-                    "Longitude": "127.538279",
-                    "Beacon": [
-                        {
-                            "Region": "com.soonchundrama.house2_1",
-                            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                            "Major": 40011,
-                            "Minor": 16492
-                        },
-                        {
-                            "Region": "com.soonchundrama.house2_2",
-                            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                            "Major": 40011,
-                            "Minor": 16492
-                        },
-                        {
-                            "Region": "com.soonchundrama.house2_3",
-                            "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
-                            "Major": 40011,
-                            "Minor": 16492
-                        }
-                    ],
-                    "IsSuccess": false,
-                    "Life": 3
-                },
+              {
+                "Name": "변소귀신_변소",
+                "Latitude": "34.956872",
+                "Longitude": "127.538193",
+                "Beacon": [
+                  {
+                    "Region": "com.soonchundrama.house2_1",
+                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                    "Major": 40011,
+                    "Minor": 16492
+                  },
+                  {
+                    "Region": "com.soonchundrama.house2_2",
+                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                    "Major": 40011,
+                    "Minor": 16492
+                  },
+                  {
+                    "Region": "com.soonchundrama.house2_3",
+                    "UUID": "E2C56DB5-DFFB-48D2-B060-D0F5A71096E0",
+                    "Major": 40011,
+                    "Minor": 16492
+                  }
+                ],
+                "IsSuccess": false,
+                "Life": 3
+              },
 
                 {
                     "Name": "사진찍는남자_면사무소",
