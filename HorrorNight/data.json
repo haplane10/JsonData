@@ -28,7 +28,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "매맞는소년_아이스크림가게",
@@ -55,7 +55,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "웃는여자_스타당구장",
@@ -82,7 +82,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "이름없는여고생_만화방뒷집",
@@ -109,7 +109,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "꿰맨입귀신_파출소",
@@ -136,7 +136,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "가위소녀_식당",
@@ -163,7 +163,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 }
             ]
         },
@@ -195,7 +195,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "흔들리는남자_중앙당구장",
@@ -222,7 +222,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                   "Name": "검은비닐봉지_기차역",
@@ -249,7 +249,7 @@
                     }
                   ],
                   "IsSuccess": false,
-                  "Life": 3
+                  "Life": 2
                 },
                 {
                     "Name": "김병장의원령_등용문",
@@ -276,7 +276,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
               {
                 "Name": "변소귀신_변소",
@@ -303,7 +303,7 @@
                   }
                 ],
                 "IsSuccess": false,
-                "Life": 3
+                "Life": 2
               },
 
                 {
@@ -331,12 +331,12 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 }
             ]
         },
         {
-            "place": 3,
+            "place": 2,
             "Infos": [
                 {
                     "Name": "Point1",
@@ -363,7 +363,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point2",
@@ -390,7 +390,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point3",
@@ -417,7 +417,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point4",
@@ -444,7 +444,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point5",
@@ -471,7 +471,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point6",
@@ -498,7 +498,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 }
             ]
         },
@@ -530,7 +530,7 @@
                   }
                 ],
                 "IsSuccess": false,
-                "Life": 3
+                "Life": 2
               },
               {
                 "Name": "Point2",
@@ -557,7 +557,7 @@
                   }
                 ],
                 "IsSuccess": false,
-                "Life": 3
+                "Life": 2
               },
               {
                 "Name": "Point3",
@@ -584,7 +584,7 @@
                   }
                 ],
                 "IsSuccess": false,
-                "Life": 3
+                "Life": 2
               },
               {
                 "Name": "Point4",
@@ -611,7 +611,7 @@
                   }
                 ],
                 "IsSuccess": false,
-                "Life": 3
+                "Life": 2
               },
               {
                 "Name": "Point5",
@@ -638,7 +638,7 @@
                   }
                 ],
                 "IsSuccess": false,
-                "Life": 3
+                "Life": 2
               },
               {
                 "Name": "Point6",
@@ -665,7 +665,7 @@
                   }
                 ],
                 "IsSuccess": false,
-                "Life": 3
+                "Life": 2
               }
             ]
         },
@@ -697,7 +697,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point2",
@@ -724,7 +724,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point3",
@@ -751,7 +751,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point4",
@@ -778,7 +778,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point5",
@@ -805,7 +805,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point6",
@@ -832,7 +832,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 }
             ]
         },
@@ -864,7 +864,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point2",
@@ -891,7 +891,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point3",
@@ -918,7 +918,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point4",
@@ -945,7 +945,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point5",
@@ -972,7 +972,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 },
                 {
                     "Name": "Point6",
@@ -999,7 +999,7 @@
                         }
                     ],
                     "IsSuccess": false,
-                    "Life": 3
+                    "Life": 2
                 }
             ]
         }
