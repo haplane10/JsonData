@@ -1,4 +1,5 @@
 {
-    "Name": "할로윈_종료됨",
-    "HasGift": false
+    "Name": "할로윈",
+    "HasGift": true,
+    "DetactRange": 5.0
 }
