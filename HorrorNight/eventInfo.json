@@ -1,7 +1,7 @@
 {
     "Name": "할로윈_종료됨",
     "HasGift": false,
-    "DetactRange": 30.0,
+    "DetactRange": 5.0,
     "UpperBannerLink": "",
-    "BottomBannerLink": "https://www.suncheon.go.kr/tour/tourist/0005/"
+    "BottomBannerLink": ""
 }
