@@ -3,5 +3,6 @@
     "HasGift": false,
     "DetactRange": 10.0,
     "UpperBannerLink": "",
-    "BottomBannerLink": ""
+    "BottomBannerLink": "",
+    "HasSurvey": true
 }
