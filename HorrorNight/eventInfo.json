@@ -1,9 +1,9 @@
 {
     "Name": "할로윈_종료됨",
     "HasGift": false,
-    "DetactRange": 10.0,
+    "DetactRange": 30.0,
     "UpperBannerLink": "",
     "BottomBannerLink": "",
-    "HasSurvey": false,
+    "HasSurvey": true,
     "SurveyLink": "https://docs.google.com/forms/d/e/1FAIpQLSdOUtk_7JMevpShz8VK8kMrWy4IvnsGxraMdxXP9A4Fr9Vw1g/viewform"
 }
